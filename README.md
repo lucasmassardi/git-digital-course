@@ -1,1 +1,3 @@
-# git-digital-course
+# git-digital-
+
+* comando git pull
